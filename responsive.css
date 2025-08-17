@@ -1,0 +1,94 @@
+/* i-pad*/
+@media (width<=980px) {
+  .contener2 {
+    width: 100%;
+    background-color: rgb(43, 226, 125);
+    flex-direction: column;
+  }
+  .b {
+    width: 98%;
+    text-align: center;
+    height: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+  }
+  .b ul li{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  .c {
+    width: 95%;
+    height: auto;
+    font-size: 30px;
+  }
+.contener {
+  width: 100%;
+  height: 200px;
+  background-color: rgb(43, 226, 125);
+  flex-direction: columgn;
+    border: none !important;
+  outline: none !important;
+}
+.a {
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  border: none !important;
+  outline: none !important;
+}
+#img{
+  width: 180px;
+  padding: 5px;
+  padding-bottom: 5px;
+  border-radius: 100px;
+}
+.btn{
+  margin-left: 80px;
+  margin-top: 10px;
+  border-radius: 50px;
+  width: 66px;
+  height: 50px;
+}
+
+ul {
+  justify-content: center;
+}
+#dev {
+  width: 100%;
+}
+.big {
+  flex-direction: column;
+  padding: 10px 10px 0px 10px;
+}
+.cpng{
+  height: 100px;
+  background: rgb(97, 96, 109);
+}
+.cpng ol{
+  gap: 50px;
+}
+.cpng img{
+  width: 90px;
+  height: 90px;
+}
+.footer{
+  font-size: 20px;
+  height: 180px;
+}
+.d{
+  font-size: 30px;
+  height: 50px;
+}
+ul li i{
+  font-size: 45px;
+  gap: 60px;
+}
+
+table{
+  justify-content: center;
+  margin-right: 10px;
+}
+}
